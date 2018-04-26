@@ -15,3 +15,6 @@ The template is trimmed to its minimum basic functions
 4. You should done now :)
 
 Have fun by using and modify it...
+
+
+Get a Preview - http://germasoft.com/Loginproject/login.php
