@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    
+    
+}
+
+body{
+    
+   font-family: 'Roboto', sans-serif;
+   background-color: white;
+   
+   
+ /* background: url(http://www.playm.de/wp-content/uploads/2017/05/Far-Cry-5-Bild-6.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+
+    
+}
+
+
+#NavigationBAR{
+    
+    position: relative;
+    width: 100%;
+    height: 65px;
+    background-color: black;
+    color: white;
+    
+}
+
+#NavigationBAR li{
+    
+    color: white;
+    position: relative;
+    float:left;
+    list-style: none;
+    margin: 25px 35px 25px 0px;
+    
+}
+
+#NavigationBAR a:link{
+    
+   color: white;
+   text-decoration: none;
+    
+}
+
+#NavigationBAR a:hover{
+    
+   color: white;
+text-decoration: none;
+    
+    
+}
+
+#NavigationBAR a:visited{
+    
+    color: white;
+    text-decoration: none;
+   
+    
+}
+
+.MainDiv {
+    
+    top: 250px;
+    position: relative;
+    margin: auto;
+    padding: 3%;
+    width: 40%;
+    height: 20%;
+    background-color: #00000033;
+    border-radius: 35px;
+
+}
+
+input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+}
+
+input[type=text], input[type=password] {
+    
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+}
+
